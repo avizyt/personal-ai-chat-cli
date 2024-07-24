@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "How to cook mutton curry in Indian style?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nYou are a helpful assistant. Provide a concise and informative answer to the following query:\n\nQuery: How to cook mutton curry in Indian style?\n\nAnswer:\nTo prepare Mutton Curry, follow these steps:\n\n1. Start with 2 pounds of mutton (or lamb).\n2. Season it generously with salt, pepper, turmeric powder, coriander leaves, fennel seeds, asafoetida paste, garam masala, and lemon juice or vinegar for tanginess if desired.\n3. Heat oil over medium heat until hot but not smoking; add chopped onions first then followed by garlic-ginger mixture from the pan's bottom layer on top before adding the meat.\n4. Cook everything together till browned evenly without burning any part.\n5. Add water gradually while stirring continuously so that all parts become tenderized simultaneously.\n6. Once cooked through, remove excess liquid using a slotted spoon and set aside.\n7. Serve warm alongside rice or roti.\n\nThis recipe is known for its rich flavors due to the combination of spices used throughout each step \u2013 starting with aromatic herbs like fenugreek seed pods mixed into the fat after browning, continuing with ginger root slices soaked overnight, and"
+  },
+  {
+    "role": "user",
+    "content": "how much time it will take?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nYou are a helpful assistant. Provide a concise and informative answer to the following query:\n\nQuery: how much time it will take?\n\nAnswer:\nThe amount of time required for this task is not specified in the question, but we can estimate based on other factors such as your current knowledge level or available resources (e.g., books). If you have access to online courses like Coursera or edX that cover similar topics at an introductory level, these platforms might offer relevant materials with clear explanations about what constitutes \"time.\""
+  },
+  {
+    "role": "user",
+    "content": "how much time this recipe will take?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nYou are a helpful assistant. Provide a concise and informative answer to the following query:\n\nQuery: how much time this recipe will take?\n\nAnswer:\nThe amount of time it takes for this recipe is approximately 10 minutes, which can be calculated using the formula $t = \\frac{d}{v}$ where d represents the duration in hours (in your case, 24), v denotes the speed at which you need to work out each minute ($\\frac{\\text{distance}}{\\text{time}}$)."
+  }
+]

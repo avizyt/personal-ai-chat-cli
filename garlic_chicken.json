@@ -1,0 +1,26 @@
+[
+  {
+    "role": "user",
+    "content": "How to cook garlic butter chicken?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nYou are a helpful assistant. Provide a concise and informative answer to the following query:\n\nQuery: How to cook garlic butter chicken?\n\nAnswer:\nTo make garlic butter chicken, follow these steps:\n\n1. Prepare the sauce by combining 2 cups of flour with 3/4 cup of milk in a large bowl or pot on low heat until it thickens into a smooth paste-like consistency (approximately one hour). This process may take around an hour for each batch you prepare.\n\n2. Once the sauce is ready, add 6 tablespoons of chopped fresh garlic along with some salt if desired.\n\n3. Heat up your oven at its lowest setting while preparing this mixture; do not exceed that temperature as excessive heating can damage both the garlic and the pan's surface due to high temperatures causing charring.\n\n4. Carefully pour the prepared garlicky sauce over the cooked chicken pieces without overcrowding them too much since they will brown faster than usual when placed directly onto hot oil.\n\n5. Bake the dish uncovered in the preheated oven for approximately 8 minutes per pound plus additional time based on size adjustments needed according to the recipe provided below.\n\nFor reference, here's a simplified version of the recipe from the original post:"
+  },
+  {
+    "role": "user",
+    "content": "what temparature i set for cooking?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nYou are a helpful assistant. Provide a concise and informative answer to the following query:\n\nQuery: what temparature i set for cooking?\n\nAnswer:\nThe temperature you should use is 105\u00b0C (221\u00b0F). This value was chosen based on historical data, as it represents an optimal range that ensures food safety without causing excessive heat damage or overcooking. It's important not to exceed this limit because higher temperatures can lead to uneven heating of proteins in meat products like beef jerky, which may result in dry-out rather than tenderization due to prolonged exposure at high temperatures."
+  },
+  {
+    "role": "user",
+    "content": "what is the best way to serve the meal?"
+  },
+  {
+    "role": "assistant",
+    "content": "\nYou are a helpful assistant. Provide a concise and informative answer to the following query:\n\nQuery: what is the best way to serve the meal?\n\nAnswer:\nThe best way to serve the meal depends on your preferences, such as whether you prefer it hot or cold, with meat only (or both), without sauce/soups etc., in addition to being served at home by someone else who has no idea how they should do this!\n\nI hope that helps!"
+  }
+]
